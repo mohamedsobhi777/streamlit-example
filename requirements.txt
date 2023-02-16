@@ -1,9 +1,3 @@
 altair
 pandas
 streamlit
-networkx
-numpy
-random
-matplotlib
-os
-pathlib
