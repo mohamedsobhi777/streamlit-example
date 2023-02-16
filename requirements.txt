@@ -6,3 +6,4 @@ numpy
 random
 matplotlib
 os
+pathlib
